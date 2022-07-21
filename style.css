@@ -223,6 +223,10 @@ body{
   background-color: var(--clr-primary-pale-blue);
 }
 
+.card{
+  max-width: 24em; 
+}
+
 .card-body p{
   max-width: 35ch;
 }
